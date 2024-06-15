@@ -16,7 +16,7 @@
   justify-content: flex-start;
   /* background-image: url("asset/gym1.jpg"); */
   color: white;
-  background-color: black;
+  background: linear-gradient(130deg,black, hsl(209, 93%, 16%));
   background-repeat: no-repeat;
   background-size: cover; /* Optional: Adjust based on your needs */
   background-position: center; /* Optional: Center the background image */
